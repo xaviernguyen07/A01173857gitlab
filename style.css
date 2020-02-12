@@ -7,7 +7,9 @@
   .container {
     height: 90vh;
   }
-
+  .card-title{
+    background-color: aquamarine;
+  }
   li:hover {
     cursor: pointer;
   }
