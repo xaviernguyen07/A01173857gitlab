@@ -9,4 +9,4 @@ Why did Github choose to use this extension over .txt or .html?
 In my opinion, the syntax of .md extension to display the same thing in a broswer is more user-friendly than .html
 .md can easily format display almost anything that can be done to text, whereas .txt is a standard text document that contains unformatted text.
 
-![Image](image.png "demonstration)
+![Demonstration](screenshots/image.PNG)
